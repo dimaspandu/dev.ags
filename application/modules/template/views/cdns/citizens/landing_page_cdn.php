@@ -1,0 +1,1 @@
+<script src="<?php echo base_url(); ?>assets/modules/citizens/landing_page/js/landing-page.js"></script>

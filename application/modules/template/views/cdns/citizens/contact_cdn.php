@@ -1,0 +1,1 @@
+<script src="<?php echo base_url(); ?>assets/modules/citizens/contact/js/contact.js"></script>
